@@ -1,3 +1,5 @@
+## Harassment reporting procedure
+
 1. Please contact any organiser:
   - Giulia Paci, post-doc LMCB, UCL, g.paci@ucl.ac.uk
   - Alessandro Felder, research software developer RITS, UCL a.felder@ucl.ac.uk
