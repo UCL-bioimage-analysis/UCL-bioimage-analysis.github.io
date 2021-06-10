@@ -32,6 +32,7 @@ If a participant engages in behaviour that violates this code of conduct, the wo
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the following:
 - Giulia Paci g.paci@ucl.ac.uk
 - Alessandro Felder a.felder@ucl.ac.uk
+
 Organisers will assist those experiencing harassment to feel safe for the duration of the workshop. We value your attendance.
 
 ### Procedure for Reporting Harassment
