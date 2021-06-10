@@ -37,7 +37,7 @@ Organisers will assist those experiencing harassment to feel safe for the durati
 
 ### Procedure for Reporting Harassment
 
-[Attendee Procedure for incident reporting]()
+[Attendee Procedure for incident reporting](reporting-procedure.md)
 
 ### License
 This Code of Conduct was adapted from the [Collaborations Workshop 20 Code of Conduct](https://software.ac.uk/cw20/code-conduct), which in turn was forked from the example policy at the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment), which is under a Creative Commons Zero license.
