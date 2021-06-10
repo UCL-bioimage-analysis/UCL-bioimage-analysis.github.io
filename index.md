@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Code of Conduct
 
-You can use the [editor on GitHub](https://github.com/UCL-bioimage-analysis/UCL-bioimage-analysis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The UCL bioimage analysis collaborative hackday brings together researchers from across UCL and beyond to work together on a bioimage-analysis-related problem for a day.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We value the participation of each stakeholder and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop and at all workshop events, including online.
 
-### Markdown
+To make clear what is expected, all attendees, organisers and volunteers at the hackday are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the workshop.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Summary
+The hackday organisers are dedicated to providing a harassment-free workshop experience for everyone. We do not tolerate harassment of workshop participants in any form.
 
-```markdown
-Syntax highlighted code block
+All communication should be appropriate for a professional audience including people of many different backgrounds.
 
-# Header 1
-## Header 2
-### Header 3
+Be kind to others. Do not insult or put down other attendees.
 
-- Bulleted
-- List
+Behave professionally. Remember that harassment and exclusionary jokes are not appropriate at bioimage analysis hackday.
 
-1. Numbered
-2. List
+Attendees violating these rules may be asked to leave the workshop at the sole discretion of the workshop organisers.
 
-**Bold** and _Italic_ and `Code` text
+Thank you for helping make this a welcoming, friendly event for all.
 
-[Link](url) and ![Image](src)
-```
+### Clarifications
+Harassment includes offensive communication related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-### Jekyll Themes
+Be careful in the words that you choose. Remember that words can be offensive to those around you. Swearing and offensive jokes are not appropriate at the hackday.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UCL-bioimage-analysis/UCL-bioimage-analysis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If a participant engages in behaviour that violates this code of conduct, the workshop organisers may take any action they deem appropriate, including warning the offender or expulsion from the workshop.
 
-### Support or Contact
+### Contact Information
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the following:
+- Giulia Paci g.paci@ucl.ac.uk
+- Alessandro Felder a.felder@ucl.ac.uk
+Organisers will assist those experiencing harassment to feel safe for the duration of the workshop. We value your attendance.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Procedure for Reporting Harassment
+
+[Attendee Procedure for incident reporting]()
+
+### License
+This Code of Conduct was adapted from the [Collaborations Workshop 20 Code of Conduct](https://software.ac.uk/cw20/code-conduct), which in turn was forked from the example policy at the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment), which is under a Creative Commons Zero license.
+
