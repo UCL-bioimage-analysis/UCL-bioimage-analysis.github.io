@@ -1,8 +1,8 @@
 ## Harassment reporting procedure
 
 1. Please contact any organiser:
-  - Giulia Paci, post-doc LMCB, UCL, g.paci@ucl.ac.uk
-  - Alessandro Felder, research software developer RITS, UCL a.felder@ucl.ac.uk
+  - Giulia Paci, post-doc LMCB, UCL, [g.paci@ucl.ac.uk](mailto:g.paci@ucl.ac.uk)
+  - Alessandro Felder, research software developer RITS, UCL [a.felder@ucl.ac.uk](a.felder@ucl.ac.uk)
 
 The organisers are prepared to handle the incident. All organisers are informed of the Code of Conduct policy and guide for handling harassment at the workshop.
 
